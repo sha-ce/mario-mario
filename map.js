@@ -41,7 +41,7 @@ class Field
     constructor()
     {
         this.scx = 0;
-        this.scy = 0;
+        this.scy = -64;
 
     }
 
