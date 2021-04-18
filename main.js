@@ -87,7 +87,6 @@ function draw()
     
     //move : → キー  or  ← キー　　junp : xキー  
     
-    
     //仮想画面から実画面へ拡大転送
     con.drawImage(vcan, 0,0,SCREEN_SIZE_W,SCREEN_SIZE_H,
          0,0,SCREEN_SIZE_W * 3,SCREEN_SIZE_H * 3);
