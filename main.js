@@ -85,7 +85,7 @@ function draw()
     //vcon.fillText("frame:" + frameCount,10,20);
     
     //コメント
-    vcon.font = "20px '黎ミンY10 R'";
+    vcon.font = "16px '黎ミンY10 R'";
     vcon.fillStyle = "#000000";
     vcon.fillText("まじで中途半端な某配管工ひげおじさんを作ってみました。。機会があればきれいにするかも。。しないかも。。\n　　move : → キー  or  ← キー\n　　junp : xキー  ", 10, 30);
 
