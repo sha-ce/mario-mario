@@ -85,9 +85,10 @@ function draw()
     //vcon.fillText("frame:" + frameCount,10,20);
     
     //コメント
-    vcon.font = "16px '黎ミンY10 R'";
+    vcon.font = "8px 'じゅん 101'";
     vcon.fillStyle = "#000000";
-    vcon.fillText("まじで中途半端な某配管工ひげおじさんを作ってみました。。機会があればきれいにするかも。。しないかも。。\n　　move : → キー  or  ← キー\n　　junp : xキー  ", 10, 30);
+    vcon.fillText("まじで中途半端な某配管工ひげおじさんを作ってみました。。機会があればきれいにするかも。。しないかも。。"
+                  "move : → キー  or  ← キー　　junp : xキー  ", 10, 30);
 
     //仮想画面から実画面へ拡大転送
     con.drawImage(vcan, 0,0,SCREEN_SIZE_W,SCREEN_SIZE_H,
