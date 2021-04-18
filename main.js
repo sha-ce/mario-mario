@@ -84,10 +84,7 @@ function draw()
     //vcon.fillText("frame:" + frameCount,10,20);
     
     //コメント
-    vcon.font = "8px 'じゅん 101'";
-    vcon.fillStyle = "#000000";
-    vcon.fillText("まじで中途半端な某配管工ひげおじさんを作ってみました。。機会があればきれいにするかも。。しないかも。。", 10, 30);
-
+    
     //move : → キー  or  ← キー　　junp : xキー  
     
     
