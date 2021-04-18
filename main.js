@@ -25,7 +25,6 @@ let chImg = new Image();
 chImg.src = "sprite.png";
 //chImg.onload = draw;
 
-
 //おじさん情報　//座標
 let ojisan = new Ojisan(100,100);
 //フィールド情報
