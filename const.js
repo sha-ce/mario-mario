@@ -3,8 +3,8 @@
 //
 
 const GAME_FPS = 1000 / 60 //FPS
-const SCREEN_SIZE_W = 620; //画面のサイズ(横)
-const SCREEN_SIZE_H = 312; //画面のサイズ(縦)
+const SCREEN_SIZE_W = 580; //画面のサイズ(横)
+const SCREEN_SIZE_H = 284; //画面のサイズ(縦)
 
 //1画面当たりのブロックの数
 const MAP_SIZE_W = SCREEN_SIZE_W / 16;
